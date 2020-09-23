@@ -1,0 +1,12 @@
+# WRAPPER = ENVELOPAR 
+Wrapper não é totalmente idêntico a um container
+
+Uma classe de container é gerada para gerar maior facilidade na manipulação dos elementos filhos.
+Os "filhos de primeiro grau" herdam as características do elemento pai.
+
+<script src="https://kit.fontawesome.com/fc47d1c608.js" crossorigin="anonymous"></script>
+É um script que permite o uso de ícones que estão armazenados em uma nuvem. Muito útil tanto para projetos pessoais quanto profissionais.
+
+Owl Carousel
+
+É recomendável que o interpretador de script fique na parte mais baixa do código. Caso ele fique no topo, o site fica mais vulnerável a problemas.
